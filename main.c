@@ -3,7 +3,7 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    //hello test collision
+    //hello test collision,and this is from feature
     printf("Hello, world!\n");
     printf("你好你好呀，这是陈南晖的lab0作业");
 }
